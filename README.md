@@ -3,19 +3,19 @@
 The Product Management Chaincode is written in Nodejs for Hyperledger Fabric. We are using CouchBD to pull the data from the blockchain using rich queries.
 It has two assets
 
-1. Parts
-      docType
-      serialNumber
-      partType
-      creationDate
+1. Parts -
+      docType,
+      serialNumber,
+      partType,
+      creationDate,
       owner
       
-2. Products
-      docType
-      serialNumber
-      productType
-      creationDate
-      owner
+2. Products -
+      docType,
+      serialNumber,
+      productType,
+      creationDate,
+      owner,
       parts
 
 It has the following functions
