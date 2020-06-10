@@ -20,20 +20,20 @@ It has two assets
 
 It has the following functions
 
-1. createParts
+1. createParts -
 This function is used to add a new Part asset in the blockchain. It has different attributes such as serialNumber, partType etc and we are saving the transaction using the serialNumber in the blockchain.
 
-2. createProducts
+2. createProducts -
 This function is used to add a new Product asset in the blockchain. It has different attributes such as serialNumber, productType etc and we are saving the transaction using the serialNumber in the blockchain.
 
-3. getPartsBySerialnumber
+3. getPartsBySerialnumber -
 This function is used to get a particular Part asset value based on the serialNumber.
 
-4. newOwnerOfPart
+4. newOwnerOfPart -
 This function is used to change the owner of a particular part asset by checking if a particular Part asset exists and belongs to the same owner who is requesting ownership change.
 
-5. newOwnerOfProduct
+5. newOwnerOfProduct -
 This function is used to change the owner of a particular product asset by checking if a particular Product asset exists and belongs to the same owner who is requesting ownership change
 
-6. getHistoryOfProduct
+6. getHistoryOfProduct -
 This function returns a history of a particular Product values across time.
