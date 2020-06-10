@@ -1,6 +1,6 @@
 # Product-Management-Chaincode
 
-The Product Management Chaincode is written in Nodejs. We are using CouchBD to pull the data from the blockchain using rich queries.
+The Product Management Chaincode is written in Nodejs for Hyperledger Fabric. We are using CouchBD to pull the data from the blockchain using rich queries.
 It has two assets
 
 1. Parts
